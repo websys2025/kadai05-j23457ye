@@ -6,6 +6,7 @@
 	"results": null,
 	"status": 400
 }
+
 レスポンスのフォーマット
 {
 	"message": null,
@@ -86,6 +87,7 @@
   "width": 1204,
   "height": 1445
 }
+
 レスポンスのフォーマット
 [{
 "id":"ebv",
